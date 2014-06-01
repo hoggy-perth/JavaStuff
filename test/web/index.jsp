@@ -1,6 +1,6 @@
 <%-- 
     Document   : index
-    Created on : 01/06/2014, 7:31:02 PM
+    Created on : Jun 1, 2014, 10:03:46 PM
     Author     : Dave
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>So is this working?</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
